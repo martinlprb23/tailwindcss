@@ -23,18 +23,6 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="max-w-xs shadow-xl bg-white rounded-xl p-6 flex-1">
-          <div className="text-2xl font-semibold">My Cards</div>
-          <div className="flex items-center mt-4">
-            <div className="flex-1 pr-8">Example cards my crazy...</div>
-            <button className="bg-blue-500 p-2 text-white font-semibold w-28 rounded-full">
-              <Link href="/cards">View 😎</Link>
-            </button>
-          </div>
-        </div>
-
-       
-        
       </div>
     </main>
   );
